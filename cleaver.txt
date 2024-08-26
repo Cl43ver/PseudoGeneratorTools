@@ -1,0 +1,1 @@
+Hi everyone, I created this little tool to generate nicknames based on letters and numbers, the code is obfuscated so that only I can modify the code and add new things, it will be open source very soon. Thank you for your understanding, you do not need a module
